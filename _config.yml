@@ -19,6 +19,10 @@ analytics:
   google: null
   facebook: null
   twitter: null
+author:
+  name: Donna Karlin
+  email: DonnaKarlin@abetterperspective.com
+  url: 'http://www.abetterperspective.com'
 name: A Better Perspective®
 cta:
   domain: null
