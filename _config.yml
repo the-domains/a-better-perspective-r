@@ -24,6 +24,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: NCJS Institute
+    url: 'http://www.noceilingjustskyinstitute.com'
+    type: external
 favicon: null
 title: No Ceiling...Just Sky™
 purpose: []
