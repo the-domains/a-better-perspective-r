@@ -28,6 +28,9 @@ navigation:
   - name: NCJS Institute
     url: 'http://www.noceilingjustskyinstitute.com'
     type: external
+  - name: The Shadow Coach
+    url: 'http://www.theshadowcoach.com'
+    type: external
 favicon: null
 title: No Ceiling...Just Sky™
 purpose: []
