@@ -41,6 +41,7 @@ navigation:
   - name: A Better Perspective®
     url: 'http://www.abetterperspective.com'
     type: external
-favicon: null
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/63883461-ad05-4c7d-9477-341732cc3fd3.ico
 title: No Ceiling...Just Sky™
 purpose: []
