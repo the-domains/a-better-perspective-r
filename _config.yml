@@ -25,7 +25,7 @@ cta:
   bucket: null
   version: null
 navigation:
-  - name: NCJS Institute
+  - name: 'No Ceiling, Just Sky™ Institute'
     url: 'http://www.noceilingjustskyinstitute.com'
     type: external
   - name: The Shadow Coach
