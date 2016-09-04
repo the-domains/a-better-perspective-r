@@ -31,6 +31,9 @@ navigation:
   - name: The Shadow Coach
     url: 'http://www.theshadowcoach.com'
     type: external
+  - name: School of Shadow Coaching
+    url: 'http://www.schoolofshadowcoaching.com'
+    type: external
 favicon: null
 title: No Ceiling...Just Sky™
 purpose: []
