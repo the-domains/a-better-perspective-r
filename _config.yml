@@ -34,6 +34,9 @@ navigation:
   - name: School of Shadow Coaching®
     url: 'http://www.schoolofshadowcoaching.com'
     type: external
+  - name: A Better Perspective®
+    url: 'http://www.abetterperspective.com'
+    type: external
 favicon: null
 title: No Ceiling...Just Sky™
 purpose: []
